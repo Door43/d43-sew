@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sew:home|Door43 (sew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sew|d43-sew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sew/archive/master.zip|d43-sew.zip]]
+
+**Recent Changes**
+{{changes>ns = sew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sew|Ethnologue data]]
+
